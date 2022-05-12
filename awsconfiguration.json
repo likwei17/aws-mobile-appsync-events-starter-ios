@@ -9,7 +9,8 @@
         "ApiUrl": "https://abcdefghijklmnop.appsync-api.us-west-2.amazonaws.com/graphql",
         "Region": "us-west-2",
         "AuthMode": "API_KEY",
-        "ApiKey": "xxx-xxxxxxxxxxxxxxxx"
+        "ApiKey": "da2-5o5ie7kpgbfjhgpb72dpc4ap7u",
+        "ClientDatabasePrefix": "My AppSync App_API_KEY"
         }
     }
 }
